@@ -2,5 +2,5 @@
 void main()
 {
     printf("good day");
-    a=10
+    printf("hello");
 }

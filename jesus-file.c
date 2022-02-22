@@ -2,4 +2,5 @@
 void main()
 {
     printf("good day");
+    a=20
 }
